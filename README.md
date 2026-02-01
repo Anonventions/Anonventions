@@ -14,16 +14,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements & Activity
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Anonventions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Anonventions's Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonventions&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
-</p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anonventions&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Anonventions Trophies" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anonventions&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=bd5fff" alt="Anonventions Activity Graph" />
+</a>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/streakingman/github-readme-streak-stats">
